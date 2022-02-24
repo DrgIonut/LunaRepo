@@ -1,0 +1,28 @@
+[
+  {
+    "id": 4,
+    "denumire": "Calatorie",
+    "linkPictograma": "https://ionutdragan.eu/luna/Images/Categories/travel-bag.png"
+  },
+  {
+    "id": 0,
+    "denumire": "Constructii",
+    "linkPictograma": "https://ionutdragan.eu/luna/Images/Categories/helmet.png"
+  },
+  {
+    "id": 2,
+    "denumire": "Electronice",
+    "linkPictograma": "https://ionutdragan.eu/luna/Images/Categories/gadgets.png"
+  },
+  {
+    "id": 1,
+    "denumire": "Moda",
+    "linkPictograma": "https://ionutdragan.eu/luna/Images/Categories/clothes-rack.png"
+  },
+  {
+    "id": 3,
+    "denumire": "Telecomunicatii",
+    "linkPictograma": "https://ionutdragan.eu/luna/Images/Categories/smartphone.png"
+  }
+
+]
